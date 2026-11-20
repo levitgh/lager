@@ -31,13 +31,6 @@
       "fach": 2,
       "name": "Box 2",
       "items": []
-    },
-    {
-      "id": "box4",
-      "regal": 1,
-      "fach": 4,
-      "name": "Box 4",
-      "items": []
     }
   ]
 }
