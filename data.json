@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "regale": [
+    {
+      "id": 1,
+      "name": "Regal 1"
+    },
+    {
+      "id": 2,
+      "name": "Regal 2"
+    }
+  ],
+  "boxen": [
+    {
+      "id": "box1",
+      "regal": 1,
+      "fach": 1,
+      "name": "Box 1",
+      "items": []
+    },
+    {
+      "id": "box2",
+      "regal": 1,
+      "fach": 2,
+      "name": "Box 2",
+      "items": []
+    },
+    {
+      "id": "box3",
+      "regal": 1,
+      "fach": 3,
+      "name": "Box 3",
+      "items": []
+    },
+    {
+      "id": "box4",
+      "regal": 1,
+      "fach": 4,
+      "name": "Box 4",
+      "items": []
+    },
+    {
+      "id": "box5",
+      "regal": 1,
+      "fach": 5,
+      "name": "Box 5",
+      "items": []
+    },
+    {
+      "id": "box6",
+      "regal": 1,
+      "fach": 6,
+      "name": "Box 6",
+      "items": []
+    },
+    {
+      "id": "box7",
+      "regal": 1,
+      "fach": 7,
+      "name": "Box 7",
+      "items": []
+    },
+    {
+      "id": "box8",
+      "regal": 1,
+      "fach": 8,
+      "name": "Box 8",
+      "items": []
+    }
+  ]
+}
