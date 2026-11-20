@@ -16,7 +16,14 @@
       "regal": 1,
       "fach": 1,
       "name": "Werkzeug",
-      "items": []
+      "items": [
+        {
+          "id": "nltdc3w9x9",
+          "name": "Bohrmaschine",
+          "soll": 1,
+          "ist": 1
+        }
+      ]
     },
     {
       "id": "box2",
