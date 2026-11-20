@@ -38,20 +38,6 @@
       "fach": 4,
       "name": "Box 4",
       "items": []
-    },
-    {
-      "id": "box5",
-      "regal": 1,
-      "fach": 5,
-      "name": "Box 5",
-      "items": []
-    },
-    {
-      "id": "box6",
-      "regal": 1,
-      "fach": 6,
-      "name": "Box 6",
-      "items": []
     }
   ]
 }
