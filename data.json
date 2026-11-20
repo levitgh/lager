@@ -33,13 +33,6 @@
       "items": []
     },
     {
-      "id": "box3",
-      "regal": 1,
-      "fach": 3,
-      "name": "Box 3",
-      "items": []
-    },
-    {
       "id": "box4",
       "regal": 1,
       "fach": 4,
@@ -58,13 +51,6 @@
       "regal": 1,
       "fach": 6,
       "name": "Box 6",
-      "items": []
-    },
-    {
-      "id": "box8",
-      "regal": 1,
-      "fach": 8,
-      "name": "Box 8",
       "items": []
     }
   ]
