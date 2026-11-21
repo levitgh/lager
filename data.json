@@ -28,6 +28,12 @@
           "name": "Hammer",
           "soll": 1,
           "ist": 1
+        },
+        {
+          "id": "kz1706zf0p",
+          "name": "Gummihammer",
+          "soll": 1,
+          "ist": 1
         }
       ]
     },
