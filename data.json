@@ -34,6 +34,12 @@
           "name": "Gummihammer",
           "soll": 1,
           "ist": 1
+        },
+        {
+          "id": "ewbu506zdv",
+          "name": "Schraubzwinge",
+          "soll": 4,
+          "ist": 4
         }
       ]
     },
